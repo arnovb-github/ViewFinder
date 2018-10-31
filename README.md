@@ -11,7 +11,7 @@ When you have a lot of views in a Commence database, finding the right one can b
 Commence RM 3.1 or higher.
 
 # Usage
-Create a new Detail Form in any category. Tip: I use a dedicated one called 'Scripts', specifically for custom detail form scripts like this one. Create a layout as you see fit (see screenshots for example). Be sure to include the required controls. The form does not use any bound fields (=database fields). Check in the form script. Create an Agent that performs an Add Item, and displays this Detail Form.
+Create a new Detail Form in category 'Scripts' (create it if you don't have it). Create a layout as you see fit (see screenshots for example). Be sure to include the required controls. The form does not use any bound fields (=database fields). Check in the form script. Create an Agent that performs an Add Item, and displays this Detail Form.
 
 Controls used in the script: TextBox, ComboBox, CommandButton, ListView (ActiveX control), StatusBar (ActiveX control). Be sure to include them on the form. Putting ActiveX controls on a form will result in many error messages. Simply ignore them.
 
