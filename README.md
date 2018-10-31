@@ -15,6 +15,7 @@ Create a new Detail Form in any category. Tip: I use a dedicated one called 'Scr
 
 Controls used in the script: TextBox, ComboBox, CommandButton, ListView (ActiveX control), StatusBar (ActiveX control). Be sure to include them on the form. Putting ActiveX controls on a form will result in many error messages. Simply ignore them.
 
-I've included the source XML of the form script, If you are really handy with Commence it may cone in handy.
+I've included the source XML of the form script, If you are really handy with Commence it may come in handy.
 
-This GIT will not be updated, I created it for archiving purposes.
+# Note
+This GIT was created just for archiving purposes. Do not expect updates.
