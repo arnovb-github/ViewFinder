@@ -17,5 +17,8 @@ Controls used in the script: TextBox, ComboBox, CommandButton, ListView (ActiveX
 
 I've included the source XML of the form script, If you are really handy with Commence it may come in handy.
 
+# Limitations
+MultiViews are not exposed by the Commence API and cannot be searched for.
+
 # Note
 This GIT was created just for archiving purposes. Do not expect updates.
